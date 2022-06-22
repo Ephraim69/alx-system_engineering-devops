@@ -1,2 +1,2 @@
-0      string/c     "school"    This is a school file
-!:mime text/school
+0 string SCHOOL School data
+!:mime School
