@@ -1,0 +1,13 @@
+total 44
+drwxrwxr-x 2 vagrant vagrant 4096 Jun 27 13:14 .
+drwxrwxr-x 8 vagrant vagrant 4096 Jun 27 10:55 ..
+-rwxrw-r-- 1 vagrant vagrant   35 Jun 27 11:23 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   28 Jun 27 11:30 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant   28 Jun 27 11:31 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   39 Jun 27 12:29 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   29 Jun 27 12:31 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   29 Jun 27 12:32 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   36 Jun 27 12:39 6-third_line
+-rwxrw-r-- 1 vagrant vagrant  100 Jun 27 12:55 7-file
+-rw-rw-r-- 1 vagrant vagrant  158 Jun 27 11:11 README.md
+-rw-rw-r-- 1 vagrant vagrant    0 Jun 27 13:14 ls_cwd_content
