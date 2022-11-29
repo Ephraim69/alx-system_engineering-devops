@@ -1,18 +1,16 @@
 #!/usr/bin/env bash
-# A script that loops through 1 to 10 using while
-
+# Loops from 1 to 10 and displays 'bad luck', 'good luck', 'Best School' for 4th, 8th and other iterations respectively
 i=1
-
 while [ $i -le 10 ]
 do
-    if [ $i -eq 4 ]
-    then
-        echo "bad luck"
-    elif [ $i -eq 8 ]
-    then
-        echo "good luck"
-    else
-        echo "Best School"
-    fi
-    ((i++))
+	if [ $i -eq 4 ]
+	then
+		echo "bad luck"
+	elif [ $i -eq 8 ]
+	then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+	((i++))
 done
