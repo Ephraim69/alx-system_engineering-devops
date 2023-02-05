@@ -4,4 +4,3 @@
 # facebook.com resolves to 8.8.8.8.
 cp /etc/hosts hosts.new
 sed -i s/127.*$/127.0.0.2\\tlocalhost\\n8.8.8.8\\tfacebook.com/g hosts.new
-cp -f hosts.new /etc/hosts
